@@ -1,11 +1,10 @@
 <?php
     // Configuração do banco de dados
-    $servidor = "viaduct.proxy.rlwy.net";
+    $servidor = "roundhouse.proxy.rlwy.net";
     $db = "railway";
     $usuario = "root";
-    $senha = "bYQgEleOQaaeENpCSMublKupZUOksdkp";
-    $porta = "16784";
-    // $porta = "21342";
+    $senha = "iwecEsEMptZHWQVPSOoTclsneIzJrTlR";
+    $porta = "27070";
 
     // Tentar estabelecer a conexão PDO
     try {
